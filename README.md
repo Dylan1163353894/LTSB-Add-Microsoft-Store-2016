@@ -1,4 +1,4 @@
-软件名称：LTSB-Add-Microsoft-Store-2016
+软件名称：LTSB_Add_Microsoft_Store_2016
 
 软件作用：为Windows 10 LTSB 2016增加Microsoft Store
 
